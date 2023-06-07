@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Yashsha58051691" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[https://twitter.com/yashsha58051691](https://twitter.com/Yashsha58051691)" height="30" width="40" /></a><a href="https://www.linkedin.com/in/yash-sharma-7a5975203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashsharma" height="30" width="40" /></a>
+<a href="https://twitter.com/JatinvermaJv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[https://twitter.com/JatinvermaJv](https://twitter.com/JatinvermaJv)" height="30" width="40" /></a><a href="https://www.linkedin.com/in/jatin-verma-b04192250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JatinVerma" height="30" width="40" /></a>
   
 </p>
 
